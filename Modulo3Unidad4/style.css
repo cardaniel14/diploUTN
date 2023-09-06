@@ -1,0 +1,39 @@
+.red, .green,.blue{
+    width: 100px;
+    height: 100px;
+    border: solid;
+    cursor: pointer;
+}
+
+.red:hover, .green:hover,.blue:hover{
+    opacity: 0.5;
+}
+
+.red{
+    background-color: red;
+}
+
+.green{
+    background-color: green;
+}
+
+.blue{
+    background-color: blue;
+}
+
+.titulo{
+    text-align: center;
+    color: brown;
+    font-family: sans-serif;
+}
+
+input{
+    border-radius: 20px;
+    background-color:beige;
+}
+
+.contador{
+    margin-left: 10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: blueviolet;
+}
